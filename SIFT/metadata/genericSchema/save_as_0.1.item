@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_OC7fUKSwEe-9NbaazkR03w" comment="connectionComment" label="connectionLabel" dataPackage="_OC7fUaSwEe-9NbaazkR03w"/>
+  <TalendMetadata:GenericPackage xmi:id="_OC7fUaSwEe-9NbaazkR03w" dataManager="_OC7fUKSwEe-9NbaazkR03w">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_OC7fUqSwEe-9NbaazkR03w" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OC7fU6SwEe-9NbaazkR03w" name="ID" id="2" label="ID" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_OC7fVKSwEe-9NbaazkR03w"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OC7fVaSwEe-9NbaazkR03w" name="First_Name" id="3" label="First_Name" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_OC7fVqSwEe-9NbaazkR03w"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OC7fV6SwEe-9NbaazkR03w" name="Last_Name" id="4" label="Last_Name" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_OC7fWKSwEe-9NbaazkR03w"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OC7fWaSwEe-9NbaazkR03w" name="Credit_Card_No" id="5" label="Credit_Card_No" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_OC7fWqSwEe-9NbaazkR03w"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OC7fW6SwEe-9NbaazkR03w" name="Email" id="6" label="Email" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_OC7fXKSwEe-9NbaazkR03w"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
