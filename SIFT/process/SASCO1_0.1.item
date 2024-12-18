@@ -369,6 +369,7 @@
       <column comment="" key="false" length="-1" name="Subsidy" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="Tier" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="Day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="Value" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" precision="0" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" precision="0" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
     </metadata>
@@ -382,98 +383,112 @@
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day1"/>
+      <elementValue elementRef="Day" value="1"/>
+      <elementValue elementRef="Value" value="row1.Day1"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day2"/>
+      <elementValue elementRef="Day" value="2"/>
+      <elementValue elementRef="Value" value="row1.Day2"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day3"/>
+      <elementValue elementRef="Day" value="3"/>
+      <elementValue elementRef="Value" value="row1.Day3"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day4"/>
+      <elementValue elementRef="Day" value="4"/>
+      <elementValue elementRef="Value" value="row1.Day4"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day5"/>
+      <elementValue elementRef="Day" value="5"/>
+      <elementValue elementRef="Value" value="row1.Day5"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day6"/>
+      <elementValue elementRef="Day" value="6"/>
+      <elementValue elementRef="Value" value="row1.Day6"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day7"/>
+      <elementValue elementRef="Day" value="7"/>
+      <elementValue elementRef="Value" value="row1.Day7"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day8"/>
+      <elementValue elementRef="Day" value="8"/>
+      <elementValue elementRef="Value" value="row1.Day8"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day9"/>
+      <elementValue elementRef="Day" value="9"/>
+      <elementValue elementRef="Value" value="row1.Day9"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day10"/>
+      <elementValue elementRef="Day" value="10"/>
+      <elementValue elementRef="Value" value="row1.Day10"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day11"/>
+      <elementValue elementRef="Day" value="11"/>
+      <elementValue elementRef="Value" value="row1.Day11"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day12"/>
+      <elementValue elementRef="Day" value="12"/>
+      <elementValue elementRef="Value" value="row1.Day12"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day13"/>
+      <elementValue elementRef="Day" value="13"/>
+      <elementValue elementRef="Value" value="row1.Day13"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
       <elementValue elementRef="StartDate" value="row1.StartDate"/>
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
-      <elementValue elementRef="Day" value="row1.Day14"/>
+      <elementValue elementRef="Day" value="14"/>
+      <elementValue elementRef="Value" value="row1.Day14"/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -481,6 +496,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day15"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -488,6 +504,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day16"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -495,6 +512,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day17"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -502,6 +520,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day18"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -509,6 +528,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day19"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -516,6 +536,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day20"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -523,6 +544,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day21"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -530,6 +552,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day22"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -537,6 +560,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day23"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -544,6 +568,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day24"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -551,6 +576,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day25"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -558,6 +584,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day26"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -565,6 +592,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day27"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -572,6 +600,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day28"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -579,6 +608,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day29"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -586,6 +616,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day30"/>
+      <elementValue elementRef="Value" value=""/>
       <elementValue elementRef="ClientName" value="row1.ClientName"/>
       <elementValue elementRef="NRIC" value="row1.NRIC"/>
       <elementValue elementRef="EpisodeNo" value="row1.EpisodeNo"/>
@@ -593,6 +624,7 @@
       <elementValue elementRef="Subsidy" value="row1.Subsidy"/>
       <elementValue elementRef="Tier" value="row1.Tier"/>
       <elementValue elementRef="Day" value="row1.Day31"/>
+      <elementValue elementRef="Value" value=""/>
     </elementParameter>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tSplitRow_1">
@@ -603,6 +635,7 @@
       <column comment="" key="false" length="-1" name="Subsidy" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="Tier" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="Day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="Value" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
     </metadata>
   </node>
   <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="720" posY="160">
@@ -633,6 +666,8 @@
       <elementValue elementRef="LENGTH" value="10"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="Day"/>
       <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="Value"/>
+      <elementValue elementRef="LENGTH" value="10"/>
     </elementParameter>
     <elementParameter field="CHECK" name="PRINT_CONTENT_WITH_LOG4J" value="true"/>
     <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" value="100" show="false"/>
@@ -645,6 +680,7 @@
       <column comment="" key="false" length="-1" name="Subsidy" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="Tier" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="Day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="Value" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
     </metadata>
   </node>
   <connection connectorName="FLOW" label="row1" lineStyle="0" metaname="tFileInputExcel_1" offsetLabelX="0" offsetLabelY="0" source="tFileInputExcel_1" target="tSplitRow_1">
@@ -652,6 +688,11 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="row1" show="false"/>
   </connection>
   <connection connectorName="FLOW" label="row2" lineStyle="0" metaname="tSplitRow_1" offsetLabelX="0" offsetLabelY="0" source="tSplitRow_1" target="tLogRow_1">
+    <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER" show="false">
+      <elementValue elementRef="TRACE_COLUMN" value="Day"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+    </elementParameter>
     <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="row2" show="false"/>
   </connection>
