@@ -745,7 +745,7 @@
   <node componentName="tDenormalize" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="400" posY="320">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDenormalize_1" show="false"/>
     <elementParameter field="TABLE" name="DENORMALIZE_COLUMNS">
-      <elementValue elementRef="INPUT_COLUMN" value="Value"/>
+      <elementValue elementRef="INPUT_COLUMN" value="Description"/>
       <elementValue elementRef="DELIMITER" value="&quot; &quot;"/>
       <elementValue elementRef="MERGE" value="false"/>
     </elementParameter>
