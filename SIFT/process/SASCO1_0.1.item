@@ -746,7 +746,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDenormalize_1" show="false"/>
     <elementParameter field="TABLE" name="DENORMALIZE_COLUMNS">
       <elementValue elementRef="INPUT_COLUMN" value="Value"/>
-      <elementValue elementRef="DELIMITER" value="&quot;;&quot;"/>
+      <elementValue elementRef="DELIMITER" value="&quot; &quot;"/>
       <elementValue elementRef="MERGE" value="false"/>
     </elementParameter>
     <elementParameter field="LABEL" name="NOTE" value=""/>
