@@ -110,7 +110,7 @@
     <elementParameter field="TEXT" name="TYPE" value="MySQL" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;admin&quot;"/>
     <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:4WO1APOpjtq1Z1GQF3DAR+qLUv6aUmW0eZJr755WuhF6ZMbODgdW/k0="/>
-    <elementParameter field="DBTABLE" name="DATATABLE" value="&quot;uat_dwh.bloomberg_feed&quot;"/>
+    <elementParameter field="DBTABLE" name="DATATABLE" value="&quot;bloomberg_feed&quot;"/>
     <elementParameter field="TEXT" name="SUSCRIBER" value="&quot;APP1&quot;"/>
     <elementParameter field="LABEL" name="EVENTS_TYPE" value=""/>
     <elementParameter field="CHECK" name="EVENTS_TYPE_INSERT" value="true"/>
