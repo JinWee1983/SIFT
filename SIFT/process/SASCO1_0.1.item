@@ -773,14 +773,14 @@
     <nodeData xsi:type="TalendMapper:MapperData">
       <uiProperties shellMaximized="true"/>
       <varTables sizeState="INTERMEDIATE" name="Var">
-        <mapperTableEntries name="var1" expression="row4.Value.split(&quot;;&quot;) " type="id_String"/>
+        <mapperTableEntries name="var1" expression="row4.Value.split(&quot;;&quot;) " type="id_Object"/>
       </varTables>
       <outputTables sizeState="INTERMEDIATE" name="out1">
-        <mapperTableEntries name="GeneratedDate" expression="Var.var1[0]" type="id_String" nullable="true"/>
-        <mapperTableEntries name="Facility" expression="Var.var1[1]" type="id_String" nullable="true"/>
-        <mapperTableEntries name="Service" expression="Var.var1[2]" type="id_String" nullable="true"/>
-        <mapperTableEntries name="UOM" expression="Var.var1[3]" type="id_String" nullable="true"/>
-        <mapperTableEntries name="ForTheMonthOf" expression="Var.var1[4]" type="id_String" nullable="true"/>
+        <mapperTableEntries name="GeneratedDate" expression="((String[])Var.var1)[0]" type="id_String" nullable="true"/>
+        <mapperTableEntries name="Facility" expression="((String[])Var.var1)[1]" type="id_String" nullable="true"/>
+        <mapperTableEntries name="Service" expression="((String[])Var.var1)[2]" type="id_String" nullable="true"/>
+        <mapperTableEntries name="UOM" expression="((String[])Var.var1)[3]" type="id_String" nullable="true"/>
+        <mapperTableEntries name="ForTheMonthOf" expression="((String[])Var.var1)[4]" type="id_String" nullable="true"/>
       </outputTables>
       <inputTables sizeState="INTERMEDIATE" name="row4" matchingMode="UNIQUE_MATCH" lookupMode="LOAD_ONCE">
         <mapperTableEntries name="Value" type="id_String" nullable="true"/>
