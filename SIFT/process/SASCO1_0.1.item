@@ -773,7 +773,7 @@
     <nodeData xsi:type="TalendMapper:MapperData">
       <uiProperties shellMaximized="true"/>
       <varTables sizeState="INTERMEDIATE" name="Var">
-        <mapperTableEntries name="var1" expression="Value.Col1.containts(&quot;;&quot;)?" type="id_String"/>
+        <mapperTableEntries name="var1" expression="Value.Col1.containts(&quot;;&quot;)?&#xD;&#xA;Value.Col1.substring(0,Value.Col1.indexof(&quot;;&quot;)):&quot;null&quot; " type="id_String"/>
       </varTables>
       <outputTables sizeState="INTERMEDIATE" name="out1">
         <mapperTableEntries name="GeneratedDate" expression="Var.var1 " type="id_String" nullable="true"/>
