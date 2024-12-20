@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_RrnwYV37Ee-gGr4U_2Qdjw" label="SIFT" language="java" technicalLabel="SIFT" author="_RrnwYl37Ee-gGr4U_2Qdjw" productVersion="Talend Cloud Data Fabric-8.0.1.20241016_1624-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/JinWee1983/SIFT.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_RrnwYV37Ee-gGr4U_2Qdjw" label="SIFT" language="java" technicalLabel="SIFT" author="_RrnwYl37Ee-gGr4U_2Qdjw" productVersion="Talend Cloud Data Fabric-8.0.1.20241203_0647-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/JinWee1983/SIFT.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_RslZsF37Ee-gGr4U_2Qdjw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_RrnwYl37Ee-gGr4U_2Qdjw" login="jinweeteo@siftag.com.nfr" firstName="Jin_Wee" lastName="Teo" type="DQ"/>
